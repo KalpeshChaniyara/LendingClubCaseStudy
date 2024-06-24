@@ -36,7 +36,7 @@
    - Jupyter Notebook
 - Version Control Platform
     - GitHub
-- Collabaration
+- Collabaration Tools
     - Google Meet and Whatsapp
 
 
