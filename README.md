@@ -19,10 +19,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+1. Most of the loans ~48% of total, are taken for debt consolidation
+2. Most of the loans are taken by people with income group of 25K to 100K
+3. Loans of higher amounts are given in lower grades, where there is higher % of defaults.
+
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
