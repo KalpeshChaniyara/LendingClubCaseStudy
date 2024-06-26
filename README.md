@@ -1,5 +1,6 @@
 # Project Name
 
+Data Analytics for Consumer Lending Company to reduce loan defaults
 
 ## Table of Contents
 * [General Info](#general-information)
